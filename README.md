@@ -22,3 +22,8 @@ v0.1.0 - CLI Banking Prototype
 - PIN authorization
 - Unique account numbers
 - Flask API and web interface
+
+## License & Copyright
+> Copyright (c) 2026 Saridi. All rights reserved.
+> 
+> **This project is proprietary. Unauthorized copying, modification, or distribution of this code via any medium is strictly prohibited.**
