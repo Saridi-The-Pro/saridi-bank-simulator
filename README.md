@@ -23,6 +23,24 @@ v0.1.0 - CLI Banking Prototype
 - Unique account numbers
 - Flask API and web interface
 
+## How to Run the Program
+Choose the easiest method for your Operating System:
+
+### Method 1: Using the Shortcut Launcher (Recommended)
+*   **Windows Users:** Simply double-click the `run.bat` file.
+*   **Mac/Linux Users:** Open your terminal in this project folder and run the `run.sh` file.
+
+### Method 2: Manual Execution via Terminal/CMD
+1. Open **Terminal** (Mac/Linux) or **Command Prompt** (Windows) inside the project folder.
+2. Install the required external library by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Launch the main application by running:
+   ```bash
+   python bank.py
+   ```
+
 ## License & Copyright
 > Copyright (c) 2026 Saridi. All rights reserved.
 > 
