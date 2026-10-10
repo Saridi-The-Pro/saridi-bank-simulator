@@ -32,11 +32,7 @@ Choose the easiest method for your Operating System:
 
 ### Method 2: Manual Execution via Terminal/CMD
 1. Open **Terminal** (Mac/Linux) or **Command Prompt** (Windows) inside the project folder.
-2. Install the required external library by running:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch the main application by running:
+2. Launch the main application by running:
    ```bash
    python bank.py
    ```
